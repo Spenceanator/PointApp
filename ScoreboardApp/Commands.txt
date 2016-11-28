@@ -14,3 +14,8 @@ git clone https://github.com/Spenceanator/PointApp.git || Takes the repository a
 git status || Show what's different between us and what's currently uploaded
 git commit -m "Message" ||Commits but isn't synced up with github.com
 git add . |&&| git add -A || Will add everything that is in the directory
+git pull || pulls everything from the repository
+
+Vim
+esc :wq to commit without message
+esc :q! force quit commit
