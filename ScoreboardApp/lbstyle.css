@@ -1,6 +1,13 @@
-html, body{
+body{
     margin: 0;
-   
+    background-image:url(haloReacPlanet.jpg);
 }
 
+@font-face{
+    font-family: "Halo";
+    src: url(halo.ttf) format('truetype');
+}
+h1{
+    font-family: Halo;
+}
 
