@@ -1,13 +1,28 @@
 body{
     margin: 0;
-    background-image:url(haloReacPlanet.jpg);
+    background-image: url(haloReachPlanet.jpg);
+    background-color: #cccccc;
 }
 
 @font-face{
     font-family: "Halo";
     src: url(halo.ttf) format('truetype');
 }
+@font-face{
+    font-family: "Halo Outline";
+    src: url(halo outline.ttf) format('truetype');
+}
+
 h1{
     font-family: Halo;
+    color: darkslategray; /*if browser doesn't support back image or hexidecimal*/
+    color: #cccccc;
+
+}
+
+p{
+    font-family: "Halo Outline", sans-serif;
+    font-size: 48px;
+
 }
 
