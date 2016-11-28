@@ -32,3 +32,11 @@ p{
 header{
     display: block;
 }
+
+.Table{
+    color: aliceblue;
+    opacity: 50%;
+    align-self: center;
+    background-color: rgba(0, 255, 0, 0.3)
+    
+}
