@@ -14,11 +14,12 @@ body{
     src: url("Halo Outline.ttf") format('truetype');
 }
 
-h1{
-    font-family: Halo;
+.heading h1{
+    font-family: Halo, Play, Arial, Helvetica, sans-serif;
     color: darkslategray; /*if browser doesn't support back image or hexidecimal*/
     color: #cccccc;
-
+    font-size: 48px;
+   
 }
 
 p{
