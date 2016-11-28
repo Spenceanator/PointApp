@@ -7,10 +7,11 @@ body{
 @font-face{
     font-family: "Halo";
     src: url(halo.ttf) format('truetype');
+    
 }
 @font-face{
     font-family: "Halo Outline";
-    src: url(halo outline.ttf) format('truetype');
+    src: url("Halo Outline.ttf") format('truetype');
 }
 
 h1{
@@ -21,7 +22,6 @@ h1{
 }
 
 p{
-    font-family: "Halo Outline", sans-serif;
     font-size: 48px;
 
 }
