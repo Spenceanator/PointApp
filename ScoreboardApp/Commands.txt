@@ -13,3 +13,4 @@ Git commands
 git clone https://github.com/Spenceanator/PointApp.git || Takes the repository and it copies the whole thing down and puts it in a folder by its name
 git status || Show what's different between us and what's currently uploaded
 git commit -m "Message" ||Commits but isn't synced up with github.com
+git add . |&&| git add -A || Will add everything that is in the directory
