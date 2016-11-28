@@ -1,3 +1,6 @@
+* {
+    text-align: center;
+}
 body{
     margin: 0;
     background-image: url(haloReachPlanet.jpg);
@@ -18,8 +21,7 @@ body{
     font-family: Halo, Play, Arial, Helvetica, sans-serif;
     color: darkslategray; /*if browser doesn't support back image or hexidecimal*/
     color: #cccccc;
-    font-size: 48px;
-   
+    font-size: 48px;  
 }
 
 p{
