@@ -4,10 +4,12 @@ CD.. goes up one directory
 G: change drive
 DIR display everything in directory
 NUL>blah or blah.txt || Creates file
-del /f filename delete file
+del /f filename || delete file
 rmdir to remove directory
 Press F7 to display commands used
-filename to open file || example: commands.txt
+filename || to open file -- example: commands.txt
+md dirName || Make the directory name
+
 
 Git commands
 git clone https://github.com/Spenceanator/PointApp.git || Takes the repository and it copies the whole thing down and puts it in a folder by its name
